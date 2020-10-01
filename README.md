@@ -1,8 +1,7 @@
 <h1 align="center">
   Projeto Calculadora em Vue
 </h1>
-<br>
-<p align="center" color="red">
+<p align="center">
   Este projeto é uma calculadora simples feita com o framework 'Vue'
 </p>
 
