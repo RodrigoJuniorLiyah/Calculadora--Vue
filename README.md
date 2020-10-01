@@ -15,16 +15,6 @@
 </div>
 
 
-
-
-
-
-
-
-
-
-
-
 # Calculator Project Guide
 
 ## Project setup
