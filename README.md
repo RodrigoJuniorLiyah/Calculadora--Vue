@@ -2,7 +2,7 @@
   Projeto Calculadora em Vue
 </h1>
 <br>
-<p align="center" size="100" >
+<p align="center" color="red">
   Este projeto é uma calculadora simples feita com o framework 'Vue'
 </p>
 
