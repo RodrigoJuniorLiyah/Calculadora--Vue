@@ -5,6 +5,7 @@
   Este projeto é uma calculadora simples feita com o framework 'Vue'
 </p>
 <br>
+
 ## Funcionalidades da calculadora - simples
 <p>
   Contas de: mais="+", menos="-", vezes="*" e divisao="/".
